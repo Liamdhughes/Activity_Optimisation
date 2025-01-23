@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2024
+
 
 clear
 close all

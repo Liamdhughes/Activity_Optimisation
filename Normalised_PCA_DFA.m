@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2024
+
 clear
 close all
 path(path,'D:\Liam Passport v2\Study 1 Data\Useful_Matlab_Functions');

@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2024
+
 close all
 load two_criteria_updated_criterion_no_norm15.mat
 

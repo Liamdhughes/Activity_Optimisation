@@ -1,3 +1,5 @@
+% Copyright, M.Bencsik, M.Bisele L.D.Hughes, 2024
+
 participant_No = '12';
 
 path_name = ['D:\Liam Passport\Study 1 Data\P012\'];
